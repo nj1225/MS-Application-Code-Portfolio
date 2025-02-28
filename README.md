@@ -51,4 +51,4 @@ The repository includes multiple projects demonstrating:
 - Commit messages highlight bug fixes, feature updates, and improvements.
 
 ### **Contact**
-If you have any questions or need additional details, feel free to reach out to me at **[your email]**.
+If you have any questions or need additional details, feel free to reach out to me at **njmisty743@gmail.com**.
