@@ -1,3 +1,4 @@
+
 # MS-Application-Code-Portfolio
 ### **About This Repository**
 This repository contains a collection of coding projects submitted as part of my application for the **Master’s in Computer Science** program. It showcases my programming skills, problem-solving abilities, and experience with version control.
@@ -11,7 +12,7 @@ The repository includes multiple projects demonstrating:
 
 ### **Projects Included**
 
-#### **1. Budget Tracker (`budget_tracker.py`)**
+#### **1. Budget Tracker (`budget_Calculation.py`)**
 - A Python application to help users track expenses and manage their budget.
 - Uses **SQLite** for storing expense records and initial budget data.
 - Features include:
@@ -19,7 +20,7 @@ The repository includes multiple projects demonstrating:
   - Viewing total expenses and remaining budget.
   - Automatically storing data for future reference.
 
-#### **2. Desktop Cleaner (`desktop_cleaner.py`)**
+#### **2. Desktop Cleaner (`Clean.py`)**
 - A Python script that organizes files in a selected folder by moving them into subfolders based on file type.
 - Keeps directories clutter-free by automatically sorting documents, images, videos, and other files.
 - Features include:
@@ -28,7 +29,7 @@ The repository includes multiple projects demonstrating:
   - **Custom folder selection**, making it flexible for different directories.
   - **Logging system** that records file movements for easy tracking.
 
-#### **3. Hangman (`hangman.py`)**
+#### **3. Hangman (`Hangman.py`)**
 - A classic word-guessing game implemented in Python.
 - Includes word selection, guessing mechanics, and a visual representation of progress.
 
@@ -41,7 +42,7 @@ The repository includes multiple projects demonstrating:
   - **SQLite database integration** to store and display high scores.
   - User-friendly interface with a menu for starting quizzes and viewing top scores.
 
-#### **5. Quiz Game (`quiz_game.py`)**
+#### **5. Quiz Game (`Quiz_Game.py`)**
 - A multiple-choice quiz game that tests users on various topics.
 - Supports custom question sets and provides instant feedback on answers.
 
