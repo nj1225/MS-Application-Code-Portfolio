@@ -12,7 +12,7 @@ The repository includes multiple projects demonstrating:
 
 ### **Projects Included**
 
-#### **1. Budget Tracker (`budget_Calculation.py`)**
+#### **1. Budget Tracker (`Budget_Calculation.py`)**
 - A Python application to help users track expenses and manage their budget.
 - Uses **SQLite** for storing expense records and initial budget data.
 - Features include:
@@ -33,7 +33,7 @@ The repository includes multiple projects demonstrating:
 - A classic word-guessing game implemented in Python.
 - Includes word selection, guessing mechanics, and a visual representation of progress.
 
-#### **4. Language Learning App (`language_learning_app.py`)**
+#### **4. Language Learning App (`ItalianEnglishApp.py`)**
 - An **Italian-English vocabulary quiz** that helps users learn new words interactively.
 - Uses **adaptive difficulty**, adjusting word selection based on the user's performance.
 - Features include:
